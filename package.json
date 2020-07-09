@@ -1,0 +1,22 @@
+{
+  "name": "trafalgar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatsaggyboi/Traflagar-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatsaggyboi/Traflagar-landing-page/issues"
+  },
+  "homepage": "https://github.com/thatsaggyboi/Traflagar-landing-page#readme",
+  "dependencies": {
+    "smooth-scrollbar": "^8.5.2"
+  }
+}
